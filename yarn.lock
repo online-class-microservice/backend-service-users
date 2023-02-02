@@ -504,6 +504,11 @@
   dependencies:
     "type" "^2.7.2"
 
+"fastest-validator@^1.16.0":
+  "integrity" "sha512-+C1cFoLboOZIZs2PWhceNtJ15zCoiRalu1LnJB4hy63Y8Tto9bkqGcTGkzegt+Xu4qy3LE9GL6CLzEdpZ5xJBQ=="
+  "resolved" "https://registry.npmjs.org/fastest-validator/-/fastest-validator-1.16.0.tgz"
+  "version" "1.16.0"
+
 "fill-range@^7.0.1":
   "integrity" "sha512-qOo9F+dMUmC2Lcb4BbVvnKJxTPjCm+RRpe4gDuGrzkL7mEVl/djYSu2OdQ2Pa302N4oqkSg9ir6jaLWJ2USVpQ=="
   "resolved" "https://registry.npmjs.org/fill-range/-/fill-range-7.0.1.tgz"
